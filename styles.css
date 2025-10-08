@@ -208,6 +208,14 @@ input.button {
 	outline: none;
 }
 
+button.mainaction {
+	color: #fdf6f3 !important;
+}
+
+button.listmenucancel {
+	color: #fdf6f3 !important;
+}
+
 .formbuttons button,
 .formbuttons input.button {
 	color: #f6fbfc;
