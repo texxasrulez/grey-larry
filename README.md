@@ -1,5 +1,14 @@
 # Colorful Roundcube Skins based off Larry
 
+[![Packagist Downloads](https://img.shields.io/packagist/dt/texxasrulez/grey-larry?style=plastic&logo=packagist&logoColor=white&label=Downloads&labelColor=blue&color=gold)](https://packagist.org/packages/texxasrulez/grey-larry)
+[![Packagist Version](https://img.shields.io/packagist/v/texxasrulez/grey-larry?style=plastic&logo=packagist&logoColor=white&label=Version&labelColor=blue&color=limegreen)](https://packagist.org/packages/texxasrulez/grey-larry)
+[![Github License](https://img.shields.io/github/license/texxasrulez/grey-larry?style=plastic&logo=github&label=License&labelColor=blue&color=coral)](https://github.com/texxasrulez/grey-larry/LICENSE)
+[![GitHub Stars](https://img.shields.io/github/stars/texxasrulez/grey-larry?style=plastic&logo=github&label=Stars&labelColor=blue&color=deepskyblue)](https://github.com/texxasrulez/grey-larry/stargazers)
+[![GitHub Issues](https://img.shields.io/github/issues/texxasrulez/grey-larry?style=plastic&logo=github&label=Issues&labelColor=blue&color=aqua)](https://github.com/texxasrulez/grey-larry/issues)
+[![GitHub Contributors](https://img.shields.io/github/contributors/texxasrulez/grey-larry?style=plastic&logo=github&logoColor=white&label=Contributors&labelColor=blue&color=orchid)](https://github.com/texxasrulez/grey-larry/graphs/contributors)
+[![GitHub Forks](https://img.shields.io/github/forks/texxasrulez/grey-larry?style=plastic&logo=github&logoColor=white&label=Forks&labelColor=blue&color=darkorange)](https://github.com/texxasrulez/grey-larry/forks)
+[![Donate Paypal](https://img.shields.io/badge/Paypal-Money_Please!-blue.svg?style=plastic&labelColor=blue&color=forestgreen&logo=paypal)](https://www.paypal.me/texxasrulez)
+
 ## Compatible with Roundcube 1.6	
 
 **Major Changes since 07/06/2020**
