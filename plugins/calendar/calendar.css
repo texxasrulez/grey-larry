@@ -2130,10 +2130,8 @@ a.dropdown-link:after {
 	font-size: 12px;
 }
 
-.fc-list-heading-main,
 .fc-list-table tr.fc-list-item {
 	background: transparent;
-	color: #434343;
 }
 
 .fc-list-table tr.fc-list-item:hover td {
@@ -2142,7 +2140,6 @@ a.dropdown-link:after {
 }
 
 .fc-list-table tr.fc-list-item td {
-	color: #434343;
 	border-color: #9e9e9e;
 	padding: 6px 8px;
 	white-space: nowrap;
