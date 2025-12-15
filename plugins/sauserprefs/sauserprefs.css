@@ -1,5 +1,5 @@
 /**
- * SAUserPrefs plugin styles for "Grey-Larry"
+ * SAUserPrefs plugin styles for "Blue-Larry"
  */
 
 #address-rules-cont,
@@ -78,23 +78,18 @@ table.address-rules-table thead th.control
   width: 40px;
 }
 
-table.spam-langs-table tr > .lang,
 table.address-rules-table tr > .rule
 {
-  font-weight: bold;
   text-align: left;
   vertical-align: middle;
   border-left: 0;
   border-right: 0;
 }
 
+table.spam-langs-table tr > .lang,
 table.address-rules-table tr > .email
 {
   color: #434343;
-  text-align: left;
-  vertical-align: middle;
-  border-left: 0;
-  border-right: 0;
 }
 
 table.spam-langs-table tr > .tick,
@@ -132,15 +127,15 @@ table.spam-langs-table tr > .tick a.lang-disabled
   background-position: 0 -36px;
 }
 
-.whitelist_from td.rule,
-.whitelist_to td.rule
+.welcomelist_from td.rule,
+.welcomelist_to td.rule
 {
   color: #008800;
   text-align: left;
   vertical-align: middle;
 }
 
-.blacklist_from td.rule
+.blocklist_from td.rule
 {
   color: #BB0000;
   text-align: left;
@@ -223,79 +218,79 @@ span.helpicon
 }
 
 input.error {
-  background-color: #e7eaebF88;
+  background-color: #FFFF88;
 }
 
 #sections-table #rcmrowtests td.section
 {
   background-image: url(images/listicons.png);
-  background-position: 3px -199px;
+  background-position: 3px -225px;
 }
 
 #sections-table #rcmrowtests.selected td.section
 {
   background-image: url(images/listicons.png);
-  background-position: 3px -225px;
+  background-position: 3px -199px;
 }
 
 #sections-table #rcmrowbayes td.section
 {
   background-image: url(images/listicons.png);
-  background-position: 3px -248px;
+  background-position: 3px -270px;
 }
 
 #sections-table #rcmrowbayes.selected td.section
 {
   background-image: url(images/listicons.png);
-  background-position: 3px -270px;
+  background-position: 3px -248px;
 }
 
 #sections-table #rcmrowheaders td.section
 {
   background-image: url(images/listicons.png);
-  background-position: 3px -99px;
+  background-position: 3px -124px;
 }
 
 #sections-table #rcmrowheaders.selected td.section
 {
   background-image: url(images/listicons.png);
-  background-position: 3px -124px;
+  background-position: 3px -99px;
 }
 
 #sections-table #rcmrowreport td.section
 {
   background-image: url(images/listicons.png);
-  background-position: 3px -150px;
+  background-position: 3px -174px;
 }
 
 #sections-table #rcmrowreport.selected td.section
 {
   background-image: url(images/listicons.png);
-  background-position: 3px -174px;
+  background-position: 3px -150px;
 }
 
 #sections-table #rcmrowaddresses td.section
 {
   background-image: url(images/listicons.png);
-  background-position: 2px -50px;
+  background-position: 2px -74px;
 }
 
 #sections-table #rcmrowaddresses.selected td.section
 {
   background-image: url(images/listicons.png);
-  background-position: 2px -74px;
+  background-position: 2px -50px;
 }
 
 #sections-table #rcmrowscores td.section
 {
   background-image: url(images/listicons.png);
-  background-position: 2px -343px;
+  background-position: 2px -366px;
 }
 
 #sections-table #rcmrowscores.selected td.section
 {
   background-image: url(images/listicons.png);
-  background-position: 2px -366px;
+  background-position: 2px -343px;
 }
 
 #rcmfd_spamlevelchar
